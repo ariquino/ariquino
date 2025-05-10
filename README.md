@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arinaldo Aquino
+# 💻 Arinaldo Aquino
 
 **`Software Developer`**
 
@@ -19,7 +19,12 @@ Me chamo Arinaldo de Souza Aquino Junior, tenho 19 anos e sou natural do Amazona
         />
     </a>
     <a href=""https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=arinaldosouzaaquino@gmail.com">
-        <img 
+        <img
+            align="left" 
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
             alt="GMAIL" 
             title="Contate-me no Gmail" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
