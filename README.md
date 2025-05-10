@@ -7,29 +7,44 @@ Me chamo Arinaldo de Souza Aquino Junior, tenho 19 anos e sou natural do Amazona
 ---
 
 ### 📫 Como me encontrar?
-- [LinkedIn](www.linkedin.com/in/arinaldo-aquino)
+- [LinkedIn](https://www.linkedin.com/in/arinaldo-aquino)
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-#### 💻 Desenvolvimento Web
+#### 💻 **Desenvolvimento Web**
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<br/><br/>
 
-#### 📱 Desenvolvimento Mobile
+#### 📱 **Desenvolvimento Mobile**
 <img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="AndroidStudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="ReactNative" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<br/><br/>
 
-#### 💾 Banco de Dados
+#### 💾 **Banco de Dados**
 <img align="left" alt="mySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+<br/><br/>
 
-#### 🎮 Outras Tecnologias
+#### 🎮 **Outras Tecnologias**
 <img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/><br/>
 
 ---
 
-### 📊 Estatísticas
-![Arinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+### 📚 O que estou aprendendo atualmente?
+- **React Native**: Explorando como desenvolver aplicativos móveis para Android com React Native.
+
+---
+
+### 🎯 Objetivos
+Meu objetivo é aprender mais, crescer como profissional, e continuar desenvolvendo habilidades que me permitam contribuir de forma significativa para projetos de tecnologia.
+
