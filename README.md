@@ -8,6 +8,11 @@ Me chamo Arinaldo de Souza Aquino Junior, tenho 19 anos e sou natural do Amazona
     </a> 
     <a href="www.linkedin.com/in/arinaldo-aquino">
         <img 
+            align="left" 
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
             alt="LINKEDIN" 
             title="Siga-me no LinkedIn para acompanhar minhas atualizações." 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
