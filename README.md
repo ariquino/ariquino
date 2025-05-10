@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Arinaldo Aquino
+# 💻 Arinaldo Aquino
 
 **`Software Developer`**
 
