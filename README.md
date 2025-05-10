@@ -4,34 +4,6 @@
 
 Me chamo Arinaldo de Souza Aquino Junior, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio na Fundação Matias Machline (FMM), com o curso técnico em informática. Sou entusiasta da área de desenvolvimento e estou sempre em busca de novos aprendizados, projetos e oportunidades para crescer profissionalmente e compartilhar conhecimento.
 
-<p align="left">
-    </a> 
-    <a href="www.linkedin.com/in/arinaldo-aquino">
-        <img 
-            align="left" 
-            alt="HTML"
-            title="HTML" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            alt="LINKEDIN" 
-            title="Siga-me no LinkedIn para acompanhar minhas atualizações." 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    <a href=""https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=arinaldosouzaaquino@gmail.com">
-        <img
-            align="left" 
-            alt="HTML"
-            title="HTML" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            alt="GMAIL" 
-            title="Contate-me no Gmail" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
